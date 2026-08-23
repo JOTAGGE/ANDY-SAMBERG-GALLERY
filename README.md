@@ -2,10 +2,6 @@
 
 Portfólio editorial e imersivo sobre a carreira de Andy Samberg. Cada projeto assume toda a interface com cenário, cores, informações, avaliações e um PNG interativo do personagem.
 
-## Site publicado
-
-[andy-samberg-gallery.jg-barros-dsantos.chatgpt.site](https://andy-samberg-gallery.jg-barros-dsantos.chatgpt.site)
-
 ## Destaques
 
 - seis universos visuais: *Brooklyn Nine-Nine*, *Palm Springs*, *Popstar*, *Hot Rod*, *Saturday Night Live* e *Celeste & Jesse Forever*;
